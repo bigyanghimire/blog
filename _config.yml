@@ -2,7 +2,7 @@ remote_theme: daviddarnes/alembic
 title: Bigyan Ghimire
 navigation_header:
   Home: /
-  Elements: /elements/
-  Blog: /blog/
-  Categories: /categories/
-  Search: /search/
+  Python: /python/
+  HTML/CSS: /design/
+  JavaScript: /javascript/
+  Ruby On Rails: /rails/
