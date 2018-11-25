@@ -1,2 +1,8 @@
 remote_theme: daviddarnes/alembic
 title: Bigyan Ghimire
+navigation_header:
+  Home: /
+  Elements: /elements/
+  Blog: /blog/
+  Categories: /categories/
+  Search: /search/
